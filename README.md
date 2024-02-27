@@ -12,17 +12,15 @@
 
 - 👨‍💻 Website maintenance [danielrmorais.com.br](https://danielrmorais.com.br/)
 
-<!--
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=danielrmorais&show_icons=true&theme=vision-friendly-dark" alt="daniel r morais stats"/>
+<img width="530em" src="https://github-reddme-stats.vercel.app/api?username=danielrmorais&show_icons=true&theme=vision-friendly-dark" alt="daniel r morais stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrmorais&layout=compact&theme=vision-friendly-dark" alt="daniel r morais most languages"/>
 </p>
--->
 
 <br><br>
 
