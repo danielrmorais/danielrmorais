@@ -15,15 +15,15 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<h2 align="left">⚙️ GitHub Analytics</h2>
 
 <p align="left">
-<img width="300em" src="https://github-readme-stats.vercel.app/api/?username=danielrmorais&layout=compact&theme=dark" alt="daniel r morais most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/?username=danielrmorais&layout=compact&theme=dark" alt="daniel r morais most languages"/>
 </p>
 
 <br><br>
 
-<h2 align="left">Contact</h2>
+<h2 align="left">🙋🏻‍♂️ Contact</h2>
 
 <p align="left" style="background:none">
 <a href="https://www.linkedin.com/in/danielrmorais/" target="_blank">
