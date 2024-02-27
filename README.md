@@ -1,21 +1,41 @@
-## Bem vindos(as) ao meu perfil, me chamo Daniel Morais e me acompanhe nesta jornada !
+<img align="right" height="590em" src="https://gist.githubusercontent.com/danielrmorais/84f89e2489bbde50151c2d26f6c76c07/raw/da0cc41a96f42df0b1501d11a2c5359f62206d92/githubcard_danielrm.svg"/>
+<h1 align="left">Hello <span style="font-size: 2.6rem;">👋</span>, pleasure. My name is Daniel Morais</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrmorais&color=blue" alt="Profile views" /> </p>
 
-⚙️ Atualmente trabalho com programação web(Front-End) e design gráfico;
-<br>📚 Estudando e me aprofundando em Front-End
-<br>👊🏻 No que puder, vou estar ajudando às pessoas
-<br>⚡ No tempo livre gosto de assistir a séries diversas, jogar CS2, ler um livro.
+- 🚀 Junior Web Developer 
 
-<div align="center">
-  <a href="https://github.com/danielrmorais">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielrmorais&show_icons=true&theme=prussian&include_all_commits=true&count_private=false"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrmorais&layout=compact&theme=prussian"/>
-</div>
-  
-  ##
-  
-  <br>
-<div align="center">
-    <a href = "mailto:danielrmorais@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/danielrmorais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/odanmorais/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+- 🛠️ I’m currently working at [LTB Marketing Digital](https://www.portalltb.com.br/)
+
+- 👩🏻‍💻 I regularly study about **HTML, CSS, JavaScript, UI, Figma**
+
+- 💬 Learning, but ask me about **HTML, CSS, JavaScript, UI**
+
+- 👨‍💻 Website maintenance [danielrmorais.com.br](https://danielrmorais.com.br/)
+
+<!--
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=danielrmorais&show_icons=true&theme=vision-friendly-dark" alt="daniel r morais stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrmorais&layout=compact&theme=vision-friendly-dark" alt="daniel r morais most languages"/>
+</p>
+-->
+
+<br><br>
+
+<h2 align="left">Contact</h2>
+
+<p align="left" style="background:none">
+<a href="https://www.linkedin.com/in/danielrmorais/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-danielrmorais-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/odanmorais" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-danielrmorais-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="mailto:danielrmorais@outlook.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-danielrmorais-05122A?style=flat&logo=gmail" alt="email"/>
+</a>
+</p>
