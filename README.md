@@ -3,7 +3,7 @@
 ⚙️ Atualmente trabalho com programação web(Front-End) e design gráfico;
 <br>📚 Estudando e me aprofundando em Front-End
 <br>👊🏻 No que puder, vou estar ajudando às pessoas
-<br>⚡ No tempo livre gosto de assistir a séries diversas e jogar CSGO, entre outros jogos
+<br>⚡ No tempo livre gosto de assistir a séries diversas, jogar CS2, ler um livro.
 
 <div align="center">
   <a href="https://github.com/danielrmorais">
