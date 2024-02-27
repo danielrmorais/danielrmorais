@@ -1,4 +1,4 @@
-<img align="right" height="590em" z-index="9999" src="https://gist.githubusercontent.com/danielrmorais/84f89e2489bbde50151c2d26f6c76c07/raw/da0cc41a96f42df0b1501d11a2c5359f62206d92/githubcard_danielrm.svg"/>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/danielrmorais/1dd3d544838f1bc164698e750b2ee636/raw/2a60e63e76fad7307b999d3f210108f7dba284ac/githubcard_danielrm.svg"/>
 <h1 align="left">Hello <span style="font-size: 2.6rem;">👋</span>, pleasure. My name is Daniel Morais</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrmorais&color=blue" alt="Profile views" /> </p>
 
