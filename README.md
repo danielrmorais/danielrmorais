@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://gist.githubusercontent.com/danielrmorais/1dd3d544838f1bc164698e750b2ee636/raw/2a60e63e76fad7307b999d3f210108f7dba284ac/githubcard_danielrm.svg"/>
+<img align="right" height="660em" src="https://gist.githubusercontent.com/danielrmorais/1dd3d544838f1bc164698e750b2ee636/raw/2a60e63e76fad7307b999d3f210108f7dba284ac/githubcard_danielrm.svg"/>
 <h1 align="left">Hello <span style="font-size: 2.6rem;">👋</span>, pleasure. My name is Daniel Morais</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrmorais&color=blue" alt="Profile views" /> </p>
 
@@ -18,7 +18,7 @@
 <h2 align="left">⚙️ GitHub Analytics</h2>
 
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api/?username=danielrmorais&layout=compact&theme=dark" alt="daniel r morais most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/?username=danielrmorais&layout=compact&theme=dark" alt="daniel r morais most languages"/>
 </p>
 
 <br><br>
