@@ -18,7 +18,7 @@
 <h2 align="left">⚙️ GitHub Analytics</h2>
 
 <p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api/?username=danielrmorais&layout=compact&theme=dark" alt="daniel r morais most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/?username=danielrmorais&layout=compact&theme=dark" alt="daniel r morais most languages"/>
 </p>
 
 <br><br>
