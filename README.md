@@ -6,6 +6,8 @@
 
 - 🛠️ I’m currently working at [LTB Marketing Digital](https://www.portalltb.com.br/)
 
+- 📚 I'm currently studying and taking **@rocketseat** courses
+
 - 👩🏻‍💻 I regularly study about **HTML, CSS, JavaScript, UI, Figma**
 
 - 💬 Learning, but ask me about **HTML, CSS, JavaScript, UI**
