@@ -6,7 +6,7 @@
 
 - 🛠️ I’m currently working at [LTB Marketing Digital](https://www.portalltb.com.br/)
 
-- 📚 I'm currently studying and taking **@rocketseat** courses
+- 📚 I'm currently studying and taking **@rocketseat** courses / Working on the All Links project for [Personal Lucas Querido](https://www.personallucasquerido.com.br/)
 
 - 👩🏻‍💻 I regularly study about **HTML, CSS, JavaScript, UI, Figma**
 
